@@ -14,3 +14,6 @@ The source of noise
 
 Noise is een steek proef
 Ux = Upopulatie
+
+Harmnic mean usefull for gaussion noise.
+
